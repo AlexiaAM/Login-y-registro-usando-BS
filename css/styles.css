@@ -1,0 +1,14 @@
+
+
+.text-verde{
+    color: rgb(68, 187, 147);
+}
+.bg-verde{
+    background-color: rgb(68, 187, 147);
+}
+.bg-oscuro{
+    background-color: rgb(43, 42, 42);
+}
+.centrar{
+    margin-top: 8rem;
+}
